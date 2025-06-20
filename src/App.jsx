@@ -159,7 +159,7 @@ function App() {
   const [recentLocations, setRecentLocations] = useState([]);
 
   // Replace with your WeatherAPI key
-  const API_KEY = 'b7dd51a2a38844bead161647251706';
+  const API_KEY = 'ADD_YOUR_API_KEY';
   const WEATHERAPI_URL = 'https://api.weatherapi.com/v1/forecast.json';
 
   // Load recent locations from localStorage
